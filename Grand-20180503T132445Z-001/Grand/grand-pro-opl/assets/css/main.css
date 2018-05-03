@@ -2004,13 +2004,22 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #fff;
 }
 
+#pricing .center {
+    margin: auto;
+    width: 200%;
+    padding: 10px;
+}
+
 #pricing .price-block-wrapper {
   text-align: center;
   display: inline-block;
-  width: 100%;
+  width: 200%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   background: #ffffff;
+  border: 3px solid #ffffff;
+  border-style: double;
   padding: 30px;
+  margin-left: 200px;
 }
 
 #pricing .price-block-wrapper .icon {
