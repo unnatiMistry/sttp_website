@@ -1,2 +1,2 @@
 # sttp_website
-Repository for Sttp workshop's website on blockchain for tradescrypt 
+Repository for Sttp on blockchain for tradescrypt 
